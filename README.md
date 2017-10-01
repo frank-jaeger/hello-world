@@ -7,9 +7,9 @@ This is my first time using **GitHub** & I'm a little excited about it
 
 Hopefully I find **GitHub** to be extremely useful. Here's a couple of websites that I've found useful as well...
 
-..* [Google][1] Great for googling things I hear!
-..* [Udemy][2] Great for... udemying things? 
-..* [Reddit][3] Fantastic site for getting into arguments and feeling superior.
++ [Google][1] Great for googling things I hear!
++ [Udemy][2] Great for... udemying things? 
++ [Reddit][3] Fantastic site for getting into arguments and feeling superior.
 
 [1]: http://google.com
 [2]: http://udemy.com
